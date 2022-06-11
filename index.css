@@ -2,7 +2,7 @@
 @media only screen and (min-width: 1440px) {
     body{
       font-family: 'Roboto', sans-serif;
-      background-image: url(/imgs/bg-info3.png);
+      background-image: url(/bg-info3.png);
       background-size: cover;
       background-repeat: no-repeat;
       margin: auto;
@@ -49,7 +49,7 @@
     body{
       font-family: 'Roboto', sans-serif;
       background-color: #c1c1c1;
-      background-image: url(/imgs/bg-info3.png);
+      background-image: url(/bg-info3.png);
       background-repeat: no-repeat;
      background-position-x: 50%;
       margin: auto;
@@ -94,7 +94,7 @@
     body{
       font-family: 'Roboto', sans-serif;
       background-color: #c1c1c1;
-      background-image: url(/imgs/bg-cell1.png);
+      background-image: url(/bg-cell1.png);
       background-repeat: no-repeat;
      background-position-x: 60%;
      background-size: 500px;
